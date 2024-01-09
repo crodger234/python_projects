@@ -9,3 +9,5 @@ How to start the app:
 3. Is open the terminal in your computer. 
 4. Then locate the directory where you stored the banking_app.py file. 
 5. Then in the terminal type "python banking_app.py"
+
+There is still some user input errors I want to add to the program. But please go ahead an try the program out and let me know what you think. I build the program using Python and Object-Oriented-Programming. 
